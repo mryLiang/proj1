@@ -1,2 +1,3 @@
 # proj1
-Natural Language Processing Project
+Natural Language Process Project
+proj1/README
