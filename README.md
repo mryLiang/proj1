@@ -1,22 +1,18 @@
 # proj1
 Natural Language Processing Project
 
-cancel changes
+git clone https://github.com/mryLiang/proj1.git
 
-code 55 faster with GitHub Copilot
+ls
 
-spaces
-rwbsfg
+mkdir Project
 
+cd Project
 
-ebfbd
-b
-efsbf
+ls
 
-bd
-bf
+git add -A
 
-dfb
-dbf
+git commit -m "initial project commit"
 
-bfdb
+git push
